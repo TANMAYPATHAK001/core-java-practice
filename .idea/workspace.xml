@@ -5,6 +5,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Aggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/AndOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Animal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Animal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Array_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/ArrayofObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Break_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Car1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Car3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Car4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Car5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Cat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Dog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Dog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Fish2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Getters_Setters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Hawk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Maths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/OverloadedConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/OverloadedMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Prey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Randoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/RuntimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Search_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Sub_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Switch_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/VariableScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/_2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/if_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/nested_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/toString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/ArrayListofFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/ArrayofFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/BankingProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/BillCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/CompInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/DiceRoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/GuessRandomNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Hypotenuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/JavaSlots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Keypad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/MadLibs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/MethodExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Rock_Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Temp_Convertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Weight_Convertor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +119,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +153,7 @@
     "Application.AudioPlayer.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
@@ -74,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778126121155</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1778127157018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778127157018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
