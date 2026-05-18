@@ -1,0 +1,8 @@
+cat
+sun
+ball
+tree
+frog
+star
+cake
+duck
