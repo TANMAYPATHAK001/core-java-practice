@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="Basics and projects added">
-      <change afterPath="$PROJECT_DIR$/src/projects/JavaHangmanGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+    <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="Java Hangman Program">
+      <change afterPath="$PROJECT_DIR$/src/basics/date_time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +50,12 @@
     "Application.AudioPlayer.executor": "Run",
     "Application.JavaHangmanGame.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.date_time.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1778177143302</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Hangman Program">
+      <option name="closed" value="true" />
+      <created>1779102406475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779102406475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Basics and projects added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basics and projects added" />
+    <MESSAGE value="Java Hangman Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Hangman Program" />
   </component>
 </project>
