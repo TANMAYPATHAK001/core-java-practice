@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="Anonymous class basics">
-      <change afterPath="$PROJECT_DIR$/src/basics/TimerTasks.java" afterDir="false" />
+    <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="TimerTasks basics">
+      <change afterPath="$PROJECT_DIR$/src/basics/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/TimertaskCountdown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +55,11 @@
   "keyToString": {
     "Application.Anonymous_class.executor": "Run",
     "Application.AudioPlayer.executor": "Run",
+    "Application.Generics.executor": "Run",
     "Application.JavaHangmanGame.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TimerTasks.executor": "Run",
+    "Application.TimertaskCountdown.executor": "Run",
     "Application.date_time.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -125,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779861280197</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TimerTasks basics">
+      <option name="closed" value="true" />
+      <created>1779862105627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779862105627</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +147,7 @@
     <MESSAGE value="Java Hangman Program" />
     <MESSAGE value="Date Time basics" />
     <MESSAGE value="Anonymous class basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anonymous class basics" />
+    <MESSAGE value="TimerTasks basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="TimerTasks basics" />
   </component>
 </project>
