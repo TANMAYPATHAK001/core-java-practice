@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="TimerTasksprogram and generics">
-      <change afterPath="$PROJECT_DIR$/src/basics/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Hashmaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Multithreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/MyRunnable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Threading.java" afterDir="false" />
+    <list default="true" id="77065ef8-7390-4957-bae8-2128f32dbd2f" name="Changes" comment="threading and multithreading">
+      <change afterPath="$PROJECT_DIR$/src/Windows User Account Control.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/AlarmClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/MAA (SAAT SAMUNDAR).wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Maa (jagiye) .wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlarmClock.executor": "Run",
     "Application.Anonymous_class.executor": "Run",
     "Application.AudioPlayer.executor": "Run",
     "Application.Enums.executor": "Run",
@@ -77,8 +76,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="projects" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tanma\Desktop\core-java-practice\src" />
+      <recent name="C:\Users\tanma\Desktop\core-java-practice\src\projects" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -154,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781503273783</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="threading and multithreading">
+      <option name="closed" value="true" />
+      <created>1781579105324</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781579105324</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +176,7 @@
     <MESSAGE value="Anonymous class basics" />
     <MESSAGE value="TimerTasks basics" />
     <MESSAGE value="TimerTasksprogram and generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="TimerTasksprogram and generics" />
+    <MESSAGE value="threading and multithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="threading and multithreading" />
   </component>
 </project>
